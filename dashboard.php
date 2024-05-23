@@ -36,8 +36,7 @@
         </div>
     </div>
 <script>
-	toggleBtn.addEvenListener('click', () => {
-		alert(hi);
+	dashboard_sidebar.style.width = '10%';
 	});
 </script>
 </body>
